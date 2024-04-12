@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "mikestead.dotenv",
+    "onecentlin.laravel5-snippets",
+    "ryannaddy.laravel-artisan",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "marabesi.php-import-checker",
+    "editorconfig.editorconfig",
+    "bierner.markdown-mermaid",
+    "ms-azuretools.vscode-docker",
+    "xdebug.php-debug",
+    "recca0120.vscode-phpunit"
+  ]
+}

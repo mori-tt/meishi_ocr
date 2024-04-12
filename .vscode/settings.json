@@ -1,0 +1,10 @@
+{
+    "remote.autoForwardPorts": true,
+    "remote.portsAttributes": {
+        "10080": {
+            "label": "LINE Webhook",
+            "onAutoForward": "notify",
+            "protocol": "https"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PHP",
+    "image": "mcr.microsoft.com/devcontainers/php:1-8.2-bullseye",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mikestead.dotenv",
+                "EditorConfig.EditorConfig",
+                "ryannaddy.laravel-artisan",
+                "amiralizadeh9480.laravel-extra-intellisense",
+                "onecentlin.laravel5-snippets",
+                "xdebug.php-debug",
+                "marabesi.php-import-checker",
+                "bmewburn.vscode-intelephense-client",
+                "bierner.markdown-mermaid",
+                "recca0120.vscode-phpunit"
+            ]
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+    }
+}
